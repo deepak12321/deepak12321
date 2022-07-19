@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <div>
-<a width="10px" href="deepakphulara7055@gmail.com"><img src="https://img.icons8.com/fluency/40/gmail-new.png"> 
-</a><a href="https://www.linkedin.com/in/deepak-phulara-071970244/"> <img src="https://img.icons8.com/fluency/40/linkedin.png"></a>
+<a width="10px" href="deepakphulara7055@gmail.com"  target = "_main"><img src="https://img.icons8.com/fluency/40/gmail-new.png"> 
+</a><a href="https://www.linkedin.com/in/deepak-phulara-071970244/" target = "_main"> <img src="https://img.icons8.com/fluency/40/linkedin.png"></a>
 </div>
 <p align="left">
 </p>
