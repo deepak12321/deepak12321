@@ -24,7 +24,7 @@
  
  <a href="https://www.linkedin.com/in/deepak-phulara-071970244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/deepak_phulara/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
- <a href="mailto:deepakphulara7055@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-deepakphulara7055@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link" alt="Instagram"></a>
+ <a href="mailto:deepakphulara7055@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-G Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link" alt="Instagram"></a>
  
 
 
