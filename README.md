@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <ul>
 <li>💬 Ask me about **Anything** </li>
-<li>⚡ Fun fact **I Think I am funny** </li>
+<li>⚡ Fun fact **One hour of banging your skull against a wall burns 150 calories.** </li>
 <li>🌱 I’m currently learning Web Development</li>
 </ul>
 <hr>
