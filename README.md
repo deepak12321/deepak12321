@@ -11,7 +11,7 @@
 <li>💬 Ask me about **Anything** </li>
 <li>⚡ Fun fact **One hour of banging your skull against a wall burns 150 calories.** </li>
 <li>🌱 I’m currently learning Web Development</li>
-<li>🌎<a href="https://deepakphulara.netlify.app" target="_blank">Portfolio</a></li>
+<li>🌎 <a href="https://deepakphulara.netlify.app" target="_blank">Portfolio</a></li>
 </ul>
 <hr>
 
