@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="500px" src="https://getwallpapers.com/wallpaper/full/f/a/d/489987.jpg" alt ="header banner">
+<img align="center" width="100%" height="450px" src="https://getwallpapers.com/wallpaper/full/f/a/d/489987.jpg" alt ="header banner">
 <h1 align="center">Hi 👋, I'm Deepak Phulara</h1>
 <h3 align="center">A passionate developer from India</h3>
 
