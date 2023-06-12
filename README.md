@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="500px" src="https://c4.wallpaperflare.com/wallpaper/172/34/484/code-coding-geek-programmer-wallpaper-preview.jpg" alt ="header banner">
+<img align="center" width="100%" height="500px" src=["https://c4.wallpaperflare.com/wallpaper/172/34/484/code-coding-geek-programmer-wallpaper-preview.jpg](https://birchtree.nyc3.digitaloceanspaces.com/images/wwdc18/dev-iphone-green.png?ref=birchtree.me)" alt ="header banner">
 <h1 align="center">Hi 👋, I'm Deepak Phulara</h1>
 <h3 align="center">A passionate developer from India</h3>
 
