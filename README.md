@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="600px" src="https://birchtree.nyc3.digitaloceanspaces.com/images/wwdc18/dev-iphone-green.png?ref=birchtree.me" alt ="header banner">
+<img align="center" width="100%" height="500px" src="https://getwallpapers.com/wallpaper/full/f/a/d/489987.jpg" alt ="header banner">
 <h1 align="center">Hi 👋, I'm Deepak Phulara</h1>
 <h3 align="center">A passionate developer from India</h3>
 
