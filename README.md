@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="250px" src="https://rapports-minoritaires.net/wp-content/uploads/2016/01/matrix.gif" alt ="header banner">
+<img align="center" width="100%" height="250px" src="https://c4.wallpaperflare.com/wallpaper/172/34/484/code-coding-geek-programmer-wallpaper-preview.jpg" alt ="header banner">
 <h1 align="center">Hi 👋, I'm Deepak Phulara</h1>
 <h3 align="center">A passionate developer from India</h3>
 
